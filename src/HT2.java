@@ -9,5 +9,7 @@ public class HT2 {
         String name = sc.nextLine();
         System.out.println(" Where are you live, " + name +"?");
         String address = sc.nextLine();
+
+        System.out.println(name + "  " + address);
     }
 }
